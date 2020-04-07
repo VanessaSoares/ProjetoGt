@@ -23,7 +23,7 @@ O Script db.sql está contido na pasta backend
  # Observações
 Ao clicar no mapa as requisições feitas para o webserver 'http://sistemas.gt4w.com.br/geoserver/processo_seletivo'
 estão falhando por configurações de cors, se utilizarem uma extensão de cors para o navegador verão o resultado corretamente
-conforme a imagem anexada. (anexar mapa.png)
+conforme a imagem anexada.
 
 ![mapa](https://user-images.githubusercontent.com/9680889/78708356-632f2000-78e8-11ea-8c6e-6a63cea4ce5c.png)
 
