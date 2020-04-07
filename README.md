@@ -22,7 +22,7 @@ Ao clicar no mapa as requisições feitas para o webserver 'http://sistemas.gt4w
 estão falhando por configurações de cors, se utilizarem uma extensão de cors para o navegador verão o resultado corretamente
 conforme a imagem anexada. (anexar mapa.png)
 
- 
+ O Script db.sql está contido na pasta backend 
 
 
 
