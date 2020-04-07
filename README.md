@@ -5,6 +5,7 @@ Java e javaScript
 # Frameworks
 Sprint Boot para a construção da Api e Reactjs para o frontEnd da aplicação
 Utilizei das bibliotecas Hibernate e Redux e Bootstrap como framework para o css
+e o uso da biblioteca LeafletJS para criar mapas que exibirá a quantidade de pessoas cadastradas em cada estado
 # Pré-Requisitos
  Java 11+
  
